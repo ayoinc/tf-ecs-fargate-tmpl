@@ -1,5 +1,7 @@
 # Terraform template for AWS ECS/Fargate
 
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/3d509130-a169-4813-81fb-c0e13baa3a3f.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/tf-ecs-fargate-tmpl)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/50e9cd4d-2a76-416c-b969-7a0b70531ec9.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/tf-ecs-fargate-tmpl)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/f0f84f0a-0920-4387-8aab-ff6c53a98618.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/tf-ecs-fargate-tmpl)  
+
 This terraform setup can be used to setup the AWS infrastructure
 for a dockerized application running on ECS with Fargate launch
 configuration.
